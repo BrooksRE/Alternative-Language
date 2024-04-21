@@ -1,6 +1,7 @@
 # Alternative-Language-Project
 
-
+WARNING: If you are using this on RepLit, which is obviously, so my bad on that, make sure to let the NIX environment run first!
+ 
 Which programming language and version did you pick?
 
 --> I chose Java (specifically Java 8) for this project. Java is a widely-used, versatile, and robust programming language known for its portability, strong community support, and extensive ecosystem of libraries and tools.
